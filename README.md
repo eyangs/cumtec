@@ -21,23 +21,20 @@ Year | Temperature (low) | Temperature (high)
 #### 效果如下
 
 <table>
-   <tr>
-      <td>John</td>
-      <td>Smith</td>
-      <td>123 Main St.</td>
-      <td>Springfield</td>
-   </tr>
-   <tr>
-      <td>Mary</td>
-      <td>Jones</td>
-      <td>456 Pine St.</td>
-      <td>Dover</td>
-   </tr>
-   <tr>
-      <td>Jim</td>
-      <td>Baker</td>
-      <td>789 Park Ave.</td>
-      <td>Lincoln</td>
-   </tr>
+ <tr>
+  <td>1</td>
+  <td>2</td>
+  <td>3</td>
+  <td>4</td>
+ </tr>
+ <tr>
+  <td>啊</td>
+  <td>b</td>
+  <td>c</td>
+  <td>d</td>
+ </tr>
+ <tr>
+  <td></td>
+ </tr>
 </table>
 
